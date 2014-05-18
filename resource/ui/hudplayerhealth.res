@@ -6,7 +6,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"c-250"		[$WIN32]
-		"ypos"			"c30"	[$WIN32]
+		"ypos"			"c40"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
@@ -21,7 +21,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
 		"xpos"			"10"
-		"ypos"			"76"
+		"ypos"			"85"
 		"zpos"			"4"
 		"wide"			"31"
 		"tall"			"31"
@@ -34,7 +34,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
 		"xpos"			"8"
-		"ypos"			"74"
+		"ypos"			"83"
 		"zpos"			"3"
 		"wide"			"35"
 		"tall"			"35"
@@ -47,13 +47,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"15"	[$WIN32]
-		"ypos"			"81"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"20"	[$WIN32]
 		"tall"			"20"	[$WIN32]
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -62,15 +62,15 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"30"
-		"ypos"			"65"	[$WIN32]
+		"ypos"			"75"	[$WIN32]
 		"zpos"			"7"
 		"wide"			"140"
-		"tall"			"52"
+		"tall"			"44"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"ACKNOHUDFont48"
+		"font"			"ACKNOHUDFont44"
 		"fgcolor_override"		"Normal_Health"
 	}								
 	"TeamIndicator"

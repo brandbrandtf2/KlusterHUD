@@ -34,6 +34,7 @@ Scheme
 		"HUD_Red"				"255 0 0 255"
 		"HUD_White"				"255 255 255 255"
 		"HUD_Black"				"0 0 0 255"
+		"HUD_Yellow"			"255 255 0 255"
 		
 		
 		// base colors

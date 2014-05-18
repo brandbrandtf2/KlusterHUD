@@ -40,7 +40,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c0"	[$WIN32]
-		"ypos"	"c30"	[$WIN32]
+		"ypos"	"c40"	[$WIN32]
 		"wide"	"250"
 		"tall"	"120"
 	}
@@ -79,11 +79,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r50"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
+		"ypos"			"r32" $WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -501,8 +497,6 @@
 		"enabled" "1"
 		"xpos"	 "r640"	[$WIN32]
 		"ypos"	 "12"	[$WIN32]
-		"xpos"	 "r672"	[$X360]
-		"ypos"	 "35"	[$X360]
 		"wide"	 "628"
 		"tall"	 "468"
 
@@ -513,17 +507,15 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		"AppleGaramondLight16"
 		
-		"TeamBlue"		"HUDBlueTeamSolid"
-		"TeamRed"		"HUDRedTeamSolid"
-		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"TeamBlue"		"0 51 255 255"
+		"TeamRed"		"255 0 0 255"
+		"IconColor"		"HUD_White"
+		"LocalPlayerColor"	"HUD_Black"
 
-		"BaseBackgroundColor"	"46 43 42 220"		[$WIN32]
-		"LocalBackgroundColor"	"245 229 196 200"	[$WIN32]
-		"BaseBackgroundColor"	"32 32 32 255"		[$X360]
-		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
+		"BaseBackgroundColor"	"HUD_Black"		[$WIN32]
+		"LocalBackgroundColor"	"HUD_White"	[$WIN32]
 	}
 
 	HudVehicle

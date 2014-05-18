@@ -36,10 +36,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"ACKNOHUDFont48"
+		"font"			"ACKNOHUDFont44"
 		"fgcolor_override"		"AmmoInClip"
 		"xpos"			"20"
-		"ypos"			"65"
+		"ypos"			"67"
 		"zpos"			"7"
 		"wide"			"140"
 		"tall"			"52"
@@ -70,7 +70,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"ACKNOHUDFont24"
+		"font"			"ACKNOHUDFont20"
 		"fgcolor_override"		"AmmoInReserve"
 		"xpos"			"170"
 		"ypos"			"61"
