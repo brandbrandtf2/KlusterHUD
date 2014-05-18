@@ -507,7 +507,7 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"AppleGaramondLight16"
+		"TextFont"		"BikoRegular12"
 		
 		"TeamBlue"		"0 51 255 255"
 		"TeamRed"		"255 0 0 255"

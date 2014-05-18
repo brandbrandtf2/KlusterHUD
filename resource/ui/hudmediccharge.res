@@ -22,7 +22,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
 		"xpos"			"15"
-		"ypos"			"-8"
+		"ypos"			"30"
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"52"
@@ -35,7 +35,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ACKNOHUDFont52"
+		"font"			"ACKNOHUDFont44"
 	}
 
 	"IndividualChargesLabel"
@@ -65,7 +65,7 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"20"
-		"ypos"			"40"
+		"ypos"			"80"
 		"zpos"			"2"
 		"wide"			"170"
 		"tall"			"8"				

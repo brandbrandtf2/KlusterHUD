@@ -2646,6 +2646,166 @@ Scheme
 			"antialias"		"1"
 			}
 		}
+	
+		BikoRegular12
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular16
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular24
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular32
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular36
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular42
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular48
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold12
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold16
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold24
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold28
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold32
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold36
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold42
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold48
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		BikoBold56
+		{
+			"1"
+			{
+				"name"		"Biko-Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -4573,6 +4733,18 @@ Scheme
 		{
 			"font" "resource/fonts/Garm3nFont.ttf"
 			"name" "Garm3nFont"
+		}
+		
+		"11"
+		{
+			"font" "resource/fonts/Biko_Bold.otf"
+			"name" "Biko-Bold"
+		}
+		
+		"12"
+		{
+			"font" "resource/fonts/Biko_Regular.otf"
+			"name" "Biko"
 		}
 	}
 }
